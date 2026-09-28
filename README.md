@@ -7,6 +7,8 @@ A single GitHub Pages project with two separate student tools:
 
 The home page at [index.html](index.html) links to both tools. Use the navigation bar to move between pages.
 
+**Live site:** https://arshadahamed220907-dotcom.github.io/freeclass-room-finder/
+
 ## Data notes
 
 The Attendance Planner loads its original timetable scan images from the public [attendance-planner repository](https://github.com/arshadahamed220907-dotcom/attendance-planner). FreeClass uses the timetables supplied for this project. Its first-year timetable is from 2024-25 and is excluded from current-term room availability. AC, room capacity, and live access are not verified by the timetables.
